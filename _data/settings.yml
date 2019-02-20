@@ -22,14 +22,15 @@ client:
 
     Frequently noted for his friendly service and deep local knowledge, Buddy has been recognized among the top agents in the world by Coldwell Banker, REMAX, The Wall Street Journal and other trade organizations. Buddy has
   market: Wilmington
-  brand: Buddy Blake Real Estate
-  brokerage: RE/MAX
-  address: 1517 A Willoughby Park Ct., Wilmington, NC 28412
-  phone: 843-359-0841
+  brand: RE/MAX Essential
+  brokerage:
+  address: 1650 Military Cutoff Rd<br>Wilmington NC 28403
+  phone: 910-262-7006
   phone_type:
   phone2:
   phone2_type:
-  email: buddy@buddyblake.com
+  email: buddyblake@remax.net
+  email2: alishamurray@remax.net
   url: http://www.buddyblake.com
 
 lender:
@@ -76,8 +77,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#c22820'
-  theme_color: '#000'
+  brand_color: '#e11b22'
+  theme_color: '#0054a4'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
