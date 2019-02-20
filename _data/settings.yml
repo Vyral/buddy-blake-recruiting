@@ -18,9 +18,7 @@ client:
   title:
   license_number:
   about_markdown: |
-    Buddy Blake represents the region's finest properties with exceptional skill using the most innovative technologies currently available. Buddy Blake offers ultimate privacy and security, speed, and efficiency. His years of full-time experience have given him a clear understanding of the mindset of home buyers and sellers and a thorough understanding of the regional marketplace.  Buddy knows Wilmigton Real Estate.
-
-    Frequently noted for his friendly service and deep local knowledge, Buddy has been recognized among the top agents in the world by Coldwell Banker, REMAX, The Wall Street Journal and other trade organizations. Buddy has
+    RE/MAX Essential and our top-producing ownership team tests and shares the very systems that allow us to be successful, which is why we also specialize in mentoring and helping agents navigate today’s disruptive world of real estate. What makes us different is we believe in transparent leadership. There are no special deals in our office—our agents are on a level playing field, and they’re consistently some of the most profitable agents in the area.  We offer a menu of business plans for every level that you can choose and implement without fear of micromanagement.  We don’t nickel-and-dime agents over services, supplies, and referrals either, and because of our worldwide RE/MAX referral network, our company does not charge extra for referrals—it’s all agent to agent.
   market: Wilmington
   brand: RE/MAX Essential
   brokerage:
@@ -70,6 +68,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Wilmington Real Estate Video Blog
