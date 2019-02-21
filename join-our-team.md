@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Wilmington Careers
 permalink: /join-our-team/
 ---
 
