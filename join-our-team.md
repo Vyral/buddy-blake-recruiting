@@ -11,43 +11,63 @@ permalink: /join-our-team/
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
-<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+<figcaption class="caption">Buddy Blake<br>Broker/Owner</figcaption>
+
+<br>
+
+<span class="client-image-container">
+<img src="/img/headshot2.jpg" alt="{{site.data.settings.client.brand}}" class="client-image"/>
+</span>
+<figcaption class="caption">Alisha Murray<br>Operations Manager</figcaption>
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be currently working as an agent at another company or you’re a brand-new agent just getting started. Perhaps you’ve been in the industry for a couple of years and you’re still only closing 8 to 12 deals a year on a 50/50 split because you’re having problems generating and converting leads.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>For some people, this can be painful. In fact, a lack of sufficient real-life training, coaching, mentoring, and accountability leads to many agents leaving the industry altogether. Studies show that 87% of agents leave real estate within five years of getting their license. </p>
+
+<p>Agents like these hire coaches for hundreds of thousands of dollars, buy online tricks and systems, cut the essential services they really need, and borrow money they don’t have. This leads to a lot of uncertainty and stress and puts pressure not only on their work life but also their home life. In short, they choose ego and pride over real profit, and they live day to day not knowing if they’ll be able to pay their bills and stay in the business. </p>
+
+<p><strong>If you’re having these same problems, you may end up as one of the 87% who has to leave the business with nothing to show for it except a lot of wasted effort and money.</strong> </p>
+
+<p>The truth is that some agents just aren’t prepared for the industry.  As for us, we run our company with an agent-first mentality.  Owners of other companies “used” to be “in the business,” but our leadership team is still in the trenches as agents. We have over 40 years of experience as agents, team leaders, owners, and coaches of other agents with over 5,000 transactions under our belt. Our leadership team is ranked and known nationally among the best of the best, and our owners are all members of the RE/MAX Hall of Fame and have been nationally recognized by other brands before opening RE/MAX Essential.</p>
+
+<p><strong>I’m Buddy Blake, and our company is looking for motivated individuals to join us and fulfill their potential as real estate professionals.</strong>  Our top-producing ownership team tests and shares the very systems that allow us to be successful, which is why we also specialize in mentoring and helping agents navigate today’s disruptive world of real estate.</p>
+
+<p>What makes us different is we believe in transparent leadership. There are no special deals in our office—our agents are on a level playing field, and they’re consistently some of the most profitable agents in the area.  We offer a menu of business plans for every level that you can choose and implement without fear of micromanagement.  We don’t nickel-and-dime agents over services, supplies, and referrals either, and because of our worldwide RE/MAX referral network, our company does not charge extra for referrals—it’s all agent to agent.</p>
+
+<p>Some of the additional benefits we offer are:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>Cutting-edge CRM and lead generation platforms</li>
+<li>Full-time staff members to assist in listings, contracts, and marketing</li>
+<li>State-of-the-art video email integration </li>
+<li>The most visible and accessible location in the area - Yes! We do get walk-ins.</li>
+<li>Same-day electronic commission distribution</li>
+<li>Safety-First Forewarn Agent-Only App</li>
+<li>Paperless platforms</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p><strong>By committing to our systems, training, and masterminds, you’ll get the freedom, money, and consistency you so desperately desire.</strong> You can work how and when you want and earn as much money as you are willing to work for.  You are in business for yourself but not by yourself.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>There are a few different alternatives to continuing at your current pace. You could join a big box company with a corporate culture, an independent company with lower fees and limited services or consumer awareness, or a pyramid-style company that’s more interested in how many other agents you can “recruit” instead of how much money you actually profit. </p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Or, you could take the first step on the road to success and join us at RE/MAX Essential. We are nimble, accessible, and you are surrounded by productive and profitable agents that actually sell houses. If you do the same, we’re the most profitable company for you in town. </p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>If you apply now, we can help you work smarter, not harder. You’ll get to choose the business plan that fits you and keep  65%, 75%, 85%, or even 95% of the money you earn—it’s your choice! We have a proven toolbox full of services, systems, and ideas. It’s up to you what you take advantage of.  </p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>If you take us up on our offer, we’ll schedule a meet and greet to help break the ice. From there, we’ll handle all the paperwork for you and get your business transferred smoothly. After that, we’ll give you new business cards, a name tag, and any other stationery you need. We’ll then help obtain new signs and our courier will assist in switching them out.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p><strong>Our system works, but you don’t have to take my word for it.</strong> One of the agents in our company was brand new to real estate before joining us, and they’re now earning over $300,000 per year. Another was an assistant for another agent at another company and making less than $30,000 per year. Now, they’re making over $150,000 per year and growing fast. Other members of our team left other teams where they were only getting a 50/50 split (that’s 50/50 of 70%-80% in reality) for doing all the work, and now they’re making over $200,000 per year while building their own business and teams.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>We’re so confident that we can take your career to the next level that we offer a guarantee where you can fire us at any time and take your listings with you without having to worry about any referral fees. If you respond now using RE/MAX’s “Join Us” incentive plan, you won’t have to pay any monthly for the first three months regardless of what plan you choose.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Now’s the time to take that first step on the road to success. I look forward to talking with you soon.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>Buddy Blake <br>
+Broker / Co-Founder</p>
 
-<p>{{site.data.settings.client.name}}</p>
 
 
 
