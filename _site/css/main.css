@@ -2656,6 +2656,9 @@ form select {
 .newsletter {
   background: #004c95; }
 
+.contact {
+  font-size: 20px; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }

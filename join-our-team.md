@@ -28,6 +28,7 @@ permalink: /join-our-team/
 
 <p>For some people, this can be painful. In fact, a lack of sufficient real-life training, coaching, mentoring, and accountability leads to many agents leaving the industry altogether. Studies show that 87% of agents leave real estate within five years of getting their license. </p>
 
+
 <p>Agents like these hire coaches for hundreds of thousands of dollars, buy online tricks and systems, cut the essential services they really need, and borrow money they don’t have. This leads to a lot of uncertainty and stress and puts pressure not only on their work life but also their home life. In short, they choose ego and pride over real profit, and they live day to day not knowing if they’ll be able to pay their bills and stay in the business. </p>
 
 <p><strong>If you’re having these same problems, you may end up as one of the 87% who has to leave the business with nothing to show for it except a lot of wasted effort and money.</strong> </p>
@@ -37,6 +38,8 @@ permalink: /join-our-team/
 <p><strong>I’m Buddy Blake, and our company is looking for motivated individuals to join us and fulfill their potential as real estate professionals.</strong>  Our top-producing ownership team tests and shares the very systems that allow us to be successful, which is why we also specialize in mentoring and helping agents navigate today’s disruptive world of real estate.</p>
 
 <p>What makes us different is we believe in transparent leadership. There are no special deals in our office—our agents are on a level playing field, and they’re consistently some of the most profitable agents in the area.  We offer a menu of business plans for every level that you can choose and implement without fear of micromanagement.  We don’t nickel-and-dime agents over services, supplies, and referrals either, and because of our worldwide RE/MAX referral network, our company does not charge extra for referrals—it’s all agent to agent.</p>
+
+
 
 <p>Some of the additional benefits we offer are:
 <ul class="indent">
@@ -53,6 +56,7 @@ permalink: /join-our-team/
 
 <p>There are a few different alternatives to continuing at your current pace. You could join a big box company with a corporate culture, an independent company with lower fees and limited services or consumer awareness, or a pyramid-style company that’s more interested in how many other agents you can “recruit” instead of how much money you actually profit. </p>
 
+
 <p>Or, you could take the first step on the road to success and join us at RE/MAX Essential. We are nimble, accessible, and you are surrounded by productive and profitable agents that actually sell houses. If you do the same, we’re the most profitable company for you in town. </p>
 
 <p>If you apply now, we can help you work smarter, not harder. You’ll get to choose the business plan that fits you and keep  65%, 75%, 85%, or even 95% of the money you earn—it’s your choice! We have a proven toolbox full of services, systems, and ideas. It’s up to you what you take advantage of.  </p>
@@ -67,6 +71,7 @@ permalink: /join-our-team/
 
 <p>Buddy Blake <br>
 Broker / Co-Founder</p>
+
 
 
 

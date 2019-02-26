@@ -8,7 +8,7 @@ permalink: /strategy-call/
 <h1 class="join-us">Free Real Estate Business Planning Call</h1>
 <h5 class="join-us-subtitle">Are you a hungry real estate agent looking for more?</h5>
 
-<p>Dear Fellow Agent:</p>
+<!-- <p>Dear Fellow Agent:</p>
 
 <p>Need direction and focus to sell more homes?</p>
 
@@ -68,7 +68,7 @@ permalink: /strategy-call/
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
 <p>Sincerely,</p>
-<p>{{site.data.settings.client.name}}</p>
+<p>{{site.data.settings.client.name}}</p> -->
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
