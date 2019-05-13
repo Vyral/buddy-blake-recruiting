@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sending Market Updates to Your SOI and Prospects
-date: 2019-05-13 20:06:15
+date: 2019-05-13 20:06:00
 tags:
 excerpt: >-
   Today I’ll discuss why you should be sending an automatic, real-time market
