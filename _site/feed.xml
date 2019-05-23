@@ -5,9 +5,30 @@
     <description>Buddy Blake, a top Real Estate Agent in Wilmington, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 May 2019 09:54:59 -0500</pubDate>
-    <lastBuildDate>Fri, 03 May 2019 09:54:59 -0500</lastBuildDate>
+    <pubDate>Thu, 23 May 2019 10:43:40 -0500</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 10:43:40 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Sending Market Updates to Your SOI and Prospects</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/c7-TIUyiheQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you send out an automatic, monthly market report to all the people in your database, you will be top of mind to those clients when it comes time to begin a transaction. Further still, if you have the right system, you can track how your database interacts with your market report. This will let you know how many times they take a look at it so you can gauge their interest levels.&lt;/p&gt;
+
+&lt;p&gt;This information is very interesting to track: &lt;strong&gt;The closer people get to making a decision to buy or sell their house, the frequency, velocity, and duration with which they look at your market report increases.&lt;/strong&gt; You can actually see the behavioral trends that lead to them giving you a phone call.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The closer people get to making a decision to buy or sell their house, the frequency, velocity, and duration with which they look at your market report increases.%20localhost:4000/sending-market-updates-to-your-soi-and-prospects.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The closer people get to making a decision to buy or sell their house, the frequency, velocity, and duration with which they look at your market report increases.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you don’t have a system set up that allows you to automatically send these market reports, then you probably won’t be able to track these trends. My advice: &lt;strong&gt;Get this system set up as soon as possible so that the number of people in your database who aren’t receiving an automatic report doesn’t grow.&lt;/strong&gt; That’ll only create more work for you when you retroactively try to send the report to those who missed it initially.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, make sure that you’re leveraging technology to help you stay top of mind with your clients. It shouldn’t cost you anything if you’re with a company or brokerage that has such a system. If you’re not, or if you have any questions, feel free to reach out to me. I’d be glad to refer you to some of the systems I recommend. I hope to hear from you soon!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 May 2019 15:06:00 -0500</pubDate>
+        <link>localhost:4000/sending-market-updates-to-your-soi-and-prospects.html</link>
+        <guid isPermaLink="true">localhost:4000/sending-market-updates-to-your-soi-and-prospects.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>

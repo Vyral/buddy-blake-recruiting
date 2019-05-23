@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Essential - your professional Wilmington Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Buddy Blake</managingEditor>
-    <lastBuildDate>2019-05-03 09:54:59 -0500</lastBuildDate>
+    <lastBuildDate>2019-05-23 10:43:40 -0500</lastBuildDate>
     <media:copyright>Buddy Blake</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wilmington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,35 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Essential - your professional Wilmington Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Sending Market Updates to Your SOI and Prospects</title>
+        <link>localhost:4000/sending-market-updates-to-your-soi-and-prospects.html</link>
+        
+        <author>Buddy Blake</author>
+        <pubDate>2019-05-13 15:06:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Buddy+Blake/Buddy+Blake-+Sending+Market+Updates+to+Your+SOI+and+Prospects.mp4</guid>
+        <description>
+
+If you send out an automatic, monthly market report to all the people in your database, you will be top of mind to those clients when it comes time to begin a transaction. Further still, if you have the right system, you can track how your database interacts with your market report. This will let you know how many times they take a look at it so you can gauge their interest levels.
+
+This information is very interesting to track: The closer people get to making a decision to buy or sell their house, the frequency, velocity, and duration with which they look at your market report increases. You can actually see the behavioral trends that lead to them giving you a phone call.
+
+“The closer people get to making a decision to buy or sell their house, the frequency, velocity, and duration with which they look at your market report increases.”
+
+If you don’t have a system set up that allows you to automatically send these market reports, then you probably won’t be able to track these trends. My advice: Get this system set up as soon as possible so that the number of people in your database who aren’t receiving an automatic report doesn’t grow. That’ll only create more work for you when you retroactively try to send the report to those who missed it initially.
+
+Ultimately, make sure that you’re leveraging technology to help you stay top of mind with your clients. It shouldn’t cost you anything if you’re with a company or brokerage that has such a system. If you’re not, or if you have any questions, feel free to reach out to me. I’d be glad to refer you to some of the systems I recommend. I hope to hear from you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Buddy+Blake/Buddy+Blake-+Sending+Market+Updates+to+Your+SOI+and+Prospects.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Buddy+Blake/Buddy+Blake-+Sending+Market+Updates+to+Your+SOI+and+Prospects.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll discuss why you should be sending an automatic, real-time market report to your past or prospective clients who are local to your area.</itunes:subtitle>
+        <itunes:author>Buddy Blake</itunes:author>
+        <itunes:summary>Today I’ll discuss why you should be sending an automatic, real-time market report to your past or prospective clients who are local to your area.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wilmington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Buddy Blake</copyright>
     <media:credit role="author">Buddy Blake</media:credit>
     <media:rating>nonadult</media:rating>

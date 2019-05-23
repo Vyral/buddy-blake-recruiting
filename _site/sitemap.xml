@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/sending-market-updates-to-your-soi-and-prospects.html</loc>
+<lastmod>2019-05-13T15:06:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/404.html</loc>
 </url>
 <url>
