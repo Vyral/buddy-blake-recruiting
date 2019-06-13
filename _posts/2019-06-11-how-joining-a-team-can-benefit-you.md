@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Joining a Team Can Benefit You
-date: 2019-06-11 21:32:22
+date: 2019-06-11 21:32:00
 tags:
 excerpt: >-
   Should you join a team or be an individual agent? The answer depends on your
